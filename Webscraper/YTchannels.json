@@ -1,0 +1,18 @@
+{
+  "channels": [
+    {
+      "CriticalRole": [
+        {
+          "basicurl": "https://www.youtube.com/@criticalrole"
+        }
+      ]
+    },
+    {
+      "Pewdiepie": [
+        {
+          "basicurl": "https://www.youtube.com/@PewDiePie"
+        }
+      ]
+    }
+  ]
+}
